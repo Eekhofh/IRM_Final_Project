@@ -15,7 +15,7 @@ DATA
 
 The data that was used to answer this question originates from the RUG's 'Karora' corpus. This corpus
 contains a large amount of tweets from 2010 to 2021. This research focuses on tweets from February 2021. 
-More information on this can be found in final_project.pdf.
+More information on this can be found in the .pdf file. 
 
 
 PYTHON PROGRAM 
